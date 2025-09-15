@@ -8,11 +8,11 @@ public class EmployeeController
 	{
 		
 		EmployeeService es = new EmployeeService();
-//		es.insertData();
-//		es.getSingleData();
-//		es.getAllData();
-//		es.updateData();
-//		es.deleteSingleData();
+		es.insertData();
+		es.getSingleData();
+		es.getAllData();
+		es.updateData();
+		es.deleteSingleData();
 		
 	}
 
